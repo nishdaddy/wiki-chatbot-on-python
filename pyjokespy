@@ -1,4 +1,0 @@
-import pyjokes
-
-for i in range(5):  # Sirf 5 jokes print karega
-    print(f"Joke {i+1}: {pyjokes.get_joke()}")
